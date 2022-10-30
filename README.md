@@ -1,4 +1,4 @@
-## My remote repository tutorial HW
+## My remote repository tutorial 
 
 * *git push* - пушим удаленный репозиторий
 
